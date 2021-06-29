@@ -1,0 +1,5 @@
+- 👋 Hi, I’m your friend.
+- 👀 I’m interested in technology.
+- 🌱 I’m currently learning programming.
+- 💞️ I’m looking to collaborate on everything.
+- 📫 How to reach me? No way!
